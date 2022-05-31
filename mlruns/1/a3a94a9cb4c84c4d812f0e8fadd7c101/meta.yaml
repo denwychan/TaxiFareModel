@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/denisechan/code/denwychan/TaxiFareModel/mlruns/1/a3a94a9cb4c84c4d812f0e8fadd7c101/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a3a94a9cb4c84c4d812f0e8fadd7c101
+run_uuid: a3a94a9cb4c84c4d812f0e8fadd7c101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654006322214
+status: 1
+tags: []
+user_id: unknown
